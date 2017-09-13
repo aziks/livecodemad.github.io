@@ -23,7 +23,7 @@ github_username:  livecodemad
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 permalink: pretty
 plugins:
   - jekyll-feed
